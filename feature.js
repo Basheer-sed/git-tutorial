@@ -1,3 +1,3 @@
 const feature1 = 2
 
-console.log('featured done');
+console.log('conflict');
